@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Kimeiga/CLionProjects/project5/stars.cpp
+utilities.h
+/cygdrive/c/Users/Kimeiga/CLionProjects/project5/utilities.h
+iostream
+-
+cstring
+-
+
+/cygdrive/c/Users/Kimeiga/CLionProjects/project5/utilities.cpp
+utilities.h
+/cygdrive/c/Users/Kimeiga/CLionProjects/project5/utilities.h
+iostream
+-
+fstream
+-
+cstring
+-
+cctype
+-
+random
+-
+utility
+-
+
+/cygdrive/c/Users/Kimeiga/CLionProjects/project5/utilities.h
+
